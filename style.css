@@ -1,0 +1,42 @@
+.topic {
+    font-size: 25px;
+}
+
+.subheading {
+    font-size: 15px;
+    color:black;
+}
+#speed {
+    background-color: maroon;
+    font-size: 20px;
+}
+#volume {
+    background-color: maroon;
+    font-size: 20px;
+}
+#disc {
+    width: 225px;
+    border-radius: 200px;
+}
+#disc2 {
+    width: 225px;
+    border-radius: 200px;
+}
+.music_speed {
+    float: left;
+}
+.music_volume {
+    float: right; 
+}
+.play {
+    font-size: 20px;
+}
+body {
+    background-size: cover;
+}
+canvas {
+    border-color: white;
+    border-width: 20px;
+    border-style: ridge;
+    margin-top: 100px;
+}
